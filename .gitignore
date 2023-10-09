@@ -1,5 +1,5 @@
 *.pdf
-*.xlsx
+Data*.xlsx
 *.csv
 Dealing*.ipynb
 Companion*.ipynb
